@@ -23,6 +23,7 @@
 
 ---
 ## MODEL GRAPH
+<img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
 <img width="1092" height="380" alt="Screenshot 2025-11-29 075228" src="https://github.com/user-attachments/assets/466d5680-bdf7-443b-ad90-43e98b699591" />
 
 ![WhatsApp Image 2025-11-29 at 07 52 00_400d1d02](https://github.com/user-attachments/assets/57db8e01-0664-4880-aa26-5619de64d649)
